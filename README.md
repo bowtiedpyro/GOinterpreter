@@ -1,0 +1,2 @@
+# GOinterpreter
+Interpreter in GO
